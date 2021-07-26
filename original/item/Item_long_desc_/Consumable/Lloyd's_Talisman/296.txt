@@ -1,0 +1,11 @@
+Talisman utilized by Allfather Lloyd's
+cleric knights to hunt down the Undead.
+Blocks Estus recovery within a limited area.
+
+In the outside world, the Undead are accursed
+creatures, and Lloyd's cleric knights are
+widely praised for their Undead hunts. This
+blessed talisman blocks Undead recovery,
+allowing the knights to fight with impunity.
+
+

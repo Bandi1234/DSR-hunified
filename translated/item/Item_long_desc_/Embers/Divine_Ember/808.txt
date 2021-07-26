@@ -1,0 +1,9 @@
+Ember required for weapon ascension.
+Divine embers are property of the church,
+and intended for divine blacksmiths.
+
+Ascends +5 standard wpn to divine weapon.
+(divine weapon can be reinforced to +5)
+
+Divine weapons are for Undead hunting. Use
+against Undead and the pawns of necromancers.

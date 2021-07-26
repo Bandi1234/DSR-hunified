@@ -1,0 +1,9 @@
+Weapon type: Small Shield
+Attack type: Strike
+
+Round wooden shield crafted in Lordran
+featuring an impressive red and white design.
+The giant trees in Lordran are distant
+offspring of the great stone archtrees.
+This shield inherits their properties, and
+the wood greatly reduces magic damage.

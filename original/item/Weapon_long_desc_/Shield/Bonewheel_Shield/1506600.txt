@@ -1,0 +1,9 @@
+Weapon type: Greatshield
+Attack type: Strike
+
+Giant wooden wheel encircled by spikes.
+Half-melded to a strange skeleton.
+
+Can be used as a greatshield, only for the
+great gaps. But at least the spikes turn into
+weapons with a good spin. Strange indeed!

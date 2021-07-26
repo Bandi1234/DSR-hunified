@@ -1,0 +1,1 @@
++10 reinforce: standard weapon. +5 reinforce: raw weapon.

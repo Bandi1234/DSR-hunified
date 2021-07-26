@@ -1,0 +1,2 @@
+This will cancel trade.
+Is this OK?

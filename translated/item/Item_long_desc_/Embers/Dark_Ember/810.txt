@@ -1,0 +1,9 @@
+Ember required for weapon ascension. The
+church long hid the forbidden black ember,
+and no living blacksmith knows of it.
+
+Ascends +5 divine weapon to occult weapon.
+(occult weapon can be reinforced to +5)
+
+Occult weapons were used to hunt the Gods, and
+are effective against their followers and kin.

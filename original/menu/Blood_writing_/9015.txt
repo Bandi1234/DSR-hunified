@@ -1,0 +1,2 @@
+With Bow pulled <?attackL?> : Precision Fire Mode/Release
+In Precision Fire Mode <?selectUD?> : Zoom

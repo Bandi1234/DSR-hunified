@@ -1,0 +1,7 @@
+Ember required for weapon ascension.
+Large magic ember, a form of sorcery.
+Handled only by the Vinheim magic blacksmiths.
+
+Ascends +5 magic weapon.
+Allows reinforcement to +10,
+the most powerful level for magic weapons.

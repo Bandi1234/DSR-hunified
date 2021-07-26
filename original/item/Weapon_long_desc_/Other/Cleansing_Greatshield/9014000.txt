@@ -1,0 +1,9 @@
+Weapon type: Greatshield
+Attack type: Strike
+
+The steel greatshield used by Knight Artorias,
+who succumbed to the Abyss.
+Artorias, deeply scarred by the Abyss, used
+this to form a barrier to protect his
+compatriot Sif. Although this drained the
+shield, its magic defense remains high.

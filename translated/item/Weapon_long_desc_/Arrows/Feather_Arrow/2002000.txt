@@ -1,0 +1,7 @@
+Weapon type: Arrow
+Attack type: Thrust
+
+Red feather arrows of the Lord's hunters.
+Their long range makes them effective for
+sniping.
+

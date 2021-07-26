@@ -1,0 +1,9 @@
+Ember required for weapon ascension.
+Chaos Flame Ember is an art of the lost city
+of Izalith. Handled only by blacksmiths
+knowledgeable in ancient methods.
+
+Ascends +5 flame weapon to chaos weapon.
+(chaos weapon can be reinforced to +5)
+Chaos weapons are demon weapons augmented
+by humanity which inflict fire damage.

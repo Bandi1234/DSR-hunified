@@ -1,0 +1,9 @@
+Weapon type: Catalyst
+Attack type: Strike
+
+Everyday Oolacile sorcery catalyst
+formed by several enchanted branches.
+
+Boosts sorcery adjustment, but lost land
+sorceries are not offensive, and attacks
+are not boosted by intelligence.

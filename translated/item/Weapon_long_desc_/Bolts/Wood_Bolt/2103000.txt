@@ -1,0 +1,10 @@
+Weapon type: Bolt
+Attack type: Thrust
+
+Basic wood bolt.
+
+These bolts do not fly particularly far,
+nor do they inflict a terrible amount of
+damage, but their cheap cost makes them
+useful when volume is required.
+

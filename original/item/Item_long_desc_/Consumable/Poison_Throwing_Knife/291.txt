@@ -1,0 +1,10 @@
+Throwing knife.
+Coated with poison.
+
+Throwing knives have limited range and
+accuracy compared to arrows, but offer a
+quick-and-easy ranged attack.
+
+When a foe is poisoned, it will continually
+take damage over a period of time.
+

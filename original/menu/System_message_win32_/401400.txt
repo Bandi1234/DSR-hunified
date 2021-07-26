@@ -1,0 +1,3 @@
+Unable to start in online mode due to a detected frame rate issue.
+
+Please restart the game after resolving the issue to play online.

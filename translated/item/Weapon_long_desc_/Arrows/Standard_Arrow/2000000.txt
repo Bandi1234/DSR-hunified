@@ -1,0 +1,5 @@
+Weapon type: Arrow
+Attack type: Thrust
+
+Standard arrow.
+Arrows must be equipped to be fired.

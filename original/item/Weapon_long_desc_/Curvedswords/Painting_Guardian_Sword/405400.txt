@@ -1,0 +1,9 @@
+Weapon type: Curved Sword
+Attack type: Slash
+
+Curved sword of Anor Londo painting guards.
+Unique shape with flat tip.
+The guardians, who strike down those who
+dare threaten the paintings, attack in a
+continuous, circular dancing motion,
+a technique passed down through generations.

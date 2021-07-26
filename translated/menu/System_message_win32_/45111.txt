@@ -1,0 +1,6 @@
+Save data was corrupted.
+Would you like to create new save data?
+The current save data will be overwritten.
+
+Select OK to overwrite save data.
+Select CANCEL to reload current save data.

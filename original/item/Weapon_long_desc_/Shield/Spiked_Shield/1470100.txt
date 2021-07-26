@@ -1,0 +1,8 @@
+Weapon type: Shield
+Attack type: Strike
+
+Shield of the infamous Darkwraith Kirk,
+Knight of Thorns. Covered with spikes.
+
+Can be used as a weapon.
+Sharp spikes cause heavy bleeding.

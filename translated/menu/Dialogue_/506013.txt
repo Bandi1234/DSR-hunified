@@ -1,0 +1,1 @@
+Combatants on friendly team did not show up in time, and matching was cancelled

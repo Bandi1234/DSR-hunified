@@ -1,0 +1,8 @@
+Weapon type: Arrow
+Attack type: Thrust
+
+Arrow granted to those bound by
+Covenant to the Dark Sun Gwyndolin,
+Lord Gwyn's lastborn.
+Moonlight Arrows glow silver,
+and inflict magic damage.

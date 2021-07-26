@@ -1,0 +1,8 @@
+Weapon type: Talisman
+Attack type: Strike
+
+Medium for casting miracles of the Gods.
+This talisman is only granted to high-
+ranking Thorolund clerics. Has high
+miracle adjustment which, thanks to divine
+protection, is not dependent upon faith.

@@ -1,0 +1,6 @@
+Rotten pine resin that has gained poison.
+Adds poison effect to right-hand weapon.
+
+Hits with affected weapon build up enemy
+poison level. If enemy is poisoned, damage
+will be inflicted for a period of time.

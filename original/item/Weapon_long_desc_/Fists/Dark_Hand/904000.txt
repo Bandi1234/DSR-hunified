@@ -1,0 +1,9 @@
+Weapon type: Fists
+Attack type: Strike
+
+The Darkwraiths, incited by Kaathe, use the
+power of the dark soul to absorb humanity, an
+art shared by this weapon, which also acts as
+a special shield. The ancients, particularly,
+could sap the humanity of even a replete
+saint in the blink of an eye.

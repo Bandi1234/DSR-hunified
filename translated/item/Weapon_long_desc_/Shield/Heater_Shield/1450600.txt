@@ -1,0 +1,9 @@
+Weapon type: Shield
+Attack type: Strike
+
+Small metal shield.
+A standard, widely-used shield.
+
+This shield is easy to use, and is one of
+the smallest shields that offers
+100% physical damage reduction.

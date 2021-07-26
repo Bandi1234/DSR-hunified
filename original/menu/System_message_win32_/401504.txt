@@ -1,0 +1,2 @@
+An update to the game is available. To use network
+features, please install the update and restart the game.

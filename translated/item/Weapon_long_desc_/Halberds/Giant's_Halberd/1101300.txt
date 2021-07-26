@@ -1,0 +1,9 @@
+Weapon type: Halberd
+Attack type: Regular/Thrust
+
+Large halberd made of old brass, used by
+the giant sentinels of Anor Londo.
+
+Brass contains traces of lightning,
+but as the halberd is designed for the giant
+sentinels, its weight is unbearable.

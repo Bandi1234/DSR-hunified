@@ -1,0 +1,2 @@
+Failed to load save data.
+Press "OK" to try again.

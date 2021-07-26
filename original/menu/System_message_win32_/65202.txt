@@ -1,0 +1,7 @@
+Failed to load save data.
+The data may be corrupted.
+
+Do you wish to create new save data?
+This will overwrite your old save data.
+
+Select "No" to attempt to load again.

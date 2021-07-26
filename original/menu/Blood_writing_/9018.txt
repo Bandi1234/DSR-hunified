@@ -1,0 +1,2 @@
+<?attackR?> : Attack
+<?subAttackR?> : Strong Attack

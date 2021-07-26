@@ -1,0 +1,2 @@
+This ring breaks when removed.
+OK to unequip this ring?

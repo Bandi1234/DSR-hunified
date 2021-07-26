@@ -1,0 +1,8 @@
+Weapon type: Hammer
+Attack type: Strike
+
+Hammer with sharp spikes on its pommel.
+One of the more barbaric cleric weapons.
+
+The effect of these spikes makes this
+strike-based weapon also cause bleeding.

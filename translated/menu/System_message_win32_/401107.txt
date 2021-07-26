@@ -1,0 +1,2 @@
+The save data is corrupted.
+Delete corrupted data and create a new save?

@@ -1,0 +1,3 @@
+Save failed.
+Unable to locate hard drive.
+Returning to Title Menu...

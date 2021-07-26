@@ -1,0 +1,9 @@
+Weapon type: Greatshield
+Attack type: Strike
+
+Greatshield of the mighty knight Tarkus.
+
+Built of special black iron and even heavier
+than Knight Berenike's tower shield.
+Especially resistant to fire attacks and
+effective for shield bashing.

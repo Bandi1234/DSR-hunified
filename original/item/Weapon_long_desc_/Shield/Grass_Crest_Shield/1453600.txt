@@ -1,0 +1,6 @@
+Weapon type: Shield
+Attack type: Strike
+
+Old medium metal shield of unknown origin.
+The grass crest is lightly imbued with magic,
+which slightly speeds stamina recovery.

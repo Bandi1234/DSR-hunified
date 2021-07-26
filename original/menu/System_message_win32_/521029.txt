@@ -1,0 +1,1 @@
+	Restore game play information associated with a particular game if that game was previously deleted and later reinstalled on the same device;

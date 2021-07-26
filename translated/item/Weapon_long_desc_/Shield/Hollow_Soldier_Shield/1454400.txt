@@ -1,0 +1,6 @@
+Weapon type: Shield
+Attack type: Strike
+
+Metal shield wielded by Hollow soldiers.
+Heavily rusted but sturdy, providing a
+strong defense.

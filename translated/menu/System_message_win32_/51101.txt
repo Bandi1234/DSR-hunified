@@ -1,0 +1,2 @@
+Game resumed from suspended state.
+Returning to the Title Menu.

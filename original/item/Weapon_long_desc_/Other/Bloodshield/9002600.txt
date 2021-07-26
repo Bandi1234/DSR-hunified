@@ -1,0 +1,6 @@
+Weapon type: Shield
+Attack type: Strike
+
+The bloodshield spoken of in the lost
+legends. The red of blood is slightly
+enchanted, and boosts various resistances.

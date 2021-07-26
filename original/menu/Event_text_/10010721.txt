@@ -1,0 +1,1 @@
+Cannot use bonfire while phantom is present

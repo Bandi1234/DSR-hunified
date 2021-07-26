@@ -1,0 +1,2 @@
+Reinforce <?itemNameBeforeForge?>
+into <?itemNameAfterForge?>?

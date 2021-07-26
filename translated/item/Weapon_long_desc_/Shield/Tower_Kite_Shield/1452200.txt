@@ -1,0 +1,8 @@
+Weapon type: Shield
+Attack type: Strike
+
+Medium metal shield. Decorated with a tower,
+the symbol of protection.
+A standard, widely-used shield.
+
+

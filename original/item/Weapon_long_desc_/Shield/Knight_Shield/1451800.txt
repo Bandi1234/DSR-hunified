@@ -1,0 +1,8 @@
+Weapon type: Shield
+Attack type: Strike
+
+This medium metal shield is elegantly
+carved and painted.
+Although it is thought to have been used by
+ancient knights of the nobility, its defense
+capabilities are similar to other shields.

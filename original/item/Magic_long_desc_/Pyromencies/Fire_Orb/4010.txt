@@ -1,0 +1,7 @@
+Pyromancy which improves upon Fireball.
+Hurl fire orb.
+
+The flaming fire orb explodes upon impact,
+causing fire splash damage in a spectacle
+which seems to symbolize the strength of
+the fire-manipulating pyromancers.

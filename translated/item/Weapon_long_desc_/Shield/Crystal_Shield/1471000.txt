@@ -1,0 +1,10 @@
+Weapon type: Shield
+Attack type: Strike
+
+A fully crystallized straight shield.
+How such a weapon was created
+is entirely unknown.
+The crystallization boosts its defense, but
+makes the shield brittle. The shield cannot
+be used for long, as it cannot be repaired.
+

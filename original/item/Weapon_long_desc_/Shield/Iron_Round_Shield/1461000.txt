@@ -1,0 +1,8 @@
+Weapon type: Shield
+Attack type: Strike
+
+Thick iron shield of Shiva of the East.
+Heaviest of the standard shields.
+Deflects enemy attacks. A famous specimen
+from Shiva's collection, but none who have
+faced it have lived to tell the tale.

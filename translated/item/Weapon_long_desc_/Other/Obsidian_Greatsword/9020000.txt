@@ -1,0 +1,9 @@
+Weapon type: Greatsword
+Attack type: Regular
+
+This greatsword, one of the rare dragon
+weapons, is formed by the tail of the
+one-eyed black dragon Kalameet,
+the last of the ancient dragons.
+The mystical power of its obsidian blade
+will be released when held with both hands.

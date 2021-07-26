@@ -1,0 +1,9 @@
+Weapon type: Greatsword
+Attack type: Regular
+
+A fully crystallized greatsword.
+How such a weapon was created
+is entirely unknown.
+The crystallization boosts its attack, but
+makes the blade brittle. The sword cannot be
+used for long, as it cannot be repaired.

@@ -1,0 +1,2 @@
+Add this character to rankings? If a previous character
+has already been added, its rankings will be overwritten.

@@ -1,0 +1,9 @@
+Weapon type: Greatsword
+Attack type: Regular
+
+This single-bladed blood-stained greatsword
+is the choice weapon of the slithering 
+serpent men of Sen's Fortress.
+
+An ordinary human will have great difficulty
+swinging this heavy beast effectively.

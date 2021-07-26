@@ -1,0 +1,2 @@
+With Catalyst equipped <?attackR?> : Use Sorcery
+<?changeMagic?> : Change Sorcery

@@ -1,0 +1,9 @@
+Weapon type: Shield
+Attack type: Strike
+
+A legendary weapon of the Way of White,
+granted to an Undead paladin long ago.
+
+Once blessed with the protection of a white
+flame, but its power has all but faded, so
+that it provides only slight HP recovery.

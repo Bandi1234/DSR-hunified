@@ -1,0 +1,1 @@
++5 reinforce: for weapons not reinforced normally.

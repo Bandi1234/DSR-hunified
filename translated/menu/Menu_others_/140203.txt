@@ -1,0 +1,2 @@
+Friendly team and enemy team are matched
+using the same pre-selected password

@@ -1,0 +1,1 @@
+<?selectUD?>:Select <?conclusion?>:Equip <?cancel?>:Back <?commando?>:Toggle Display <?viewChange?>:Toggle Status

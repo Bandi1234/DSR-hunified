@@ -1,0 +1,1 @@
+<?selectAll?>:Select <?conclusion?>:Feed <?cancel?>:Close <?commando?>:Toggle Display

@@ -1,0 +1,1 @@
+Parameter determining stamina, equipment load, and resistance to bleeding.

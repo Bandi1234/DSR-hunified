@@ -1,0 +1,1 @@
+Total weight of equipped items. Higher number slows movement. Exceeding max causes sluggishness.

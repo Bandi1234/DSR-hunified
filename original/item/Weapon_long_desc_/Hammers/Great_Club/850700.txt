@@ -1,0 +1,10 @@
+Weapon type: Great Hammer
+Attack type: Strike
+
+Giant tree branch serves as a wooden club.
+Smashes enemies from upside the head.
+
+The leaping attack is a trademark of clubs,
+and this giant club is no exception.
+
+

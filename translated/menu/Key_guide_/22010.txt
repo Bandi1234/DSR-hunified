@@ -1,0 +1,1 @@
+<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Close <?commando?>:Remove <?viewChange?>:Toggle Status

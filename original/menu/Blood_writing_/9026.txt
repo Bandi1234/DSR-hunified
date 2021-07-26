@@ -1,0 +1,2 @@
+<?playerMove?> + <?attackR?> : Kick
+<?playerMove?> + <?subAttackR?> : Jump Attack

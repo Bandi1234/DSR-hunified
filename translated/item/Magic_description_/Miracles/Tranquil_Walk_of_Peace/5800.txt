@@ -1,0 +1,1 @@
+Slows all walking within effect area

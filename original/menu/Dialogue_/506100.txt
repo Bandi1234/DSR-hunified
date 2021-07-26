@@ -1,0 +1,2 @@
+You have exceeded the refresh limit for retrieiving ranking information.
+Please wait five minutes or more before reattempting access.

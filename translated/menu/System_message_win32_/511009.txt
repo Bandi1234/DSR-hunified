@@ -1,0 +1,7 @@
+3. 	PRECONDITIONS OF THE LICENSES. The licenses granted in this Agreement are specifically conditioned upon the following and your full compliance with all other terms and conditions set forth in this Agreement:
+a)	You have reached the age of majority in your jurisdiction. If you are under the age of majority in your jurisdiction, your parent or legal guardian must agree to be bound by this Agreement and any applicable additional terms;
+b)	You agree to and comply with all of the terms in this Agreement, and any additional terms as may be applicable to the Game;
+c)	Your access and use of the Game is subject to certain security measures, including, without limitation, registering the Game with a serial code, having continuous access to the Internet, and accepting certain security/digital rights management features. Failure to accept and fully-comply with such security measures may partially or completely impair your use of the Game.
+d)	Your access and use of the Game is in accordance with all applicable local, state, national, and foreign laws and regulations.
+e)	You access and use the Game only on local machines, running validly licensed copies of operating systems on which the Game was designed to operate (the “Hardware”);
+f)	You have accepted and are in compliance with all terms and conditions applicable to the Hardware, including any terms of such platform regarding the checkout process.

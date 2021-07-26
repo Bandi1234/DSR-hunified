@@ -1,0 +1,5 @@
+Save data is corrupted.
+Would you like to attempt to repair the save data?
+Any corrupted characters will be discarded.
+
+Selecting CANCEL will load the save data again.

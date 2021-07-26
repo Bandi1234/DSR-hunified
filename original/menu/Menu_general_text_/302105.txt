@@ -1,0 +1,2 @@
+Boosts damage inflicted in special attacks,
+such as a strike back after parry, or hit from behind.

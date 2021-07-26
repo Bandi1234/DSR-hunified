@@ -1,0 +1,9 @@
+Throwing knife.
+Used as a projectile.
+
+Throwing knives have limited range and
+accuracy compared to arrows, but offer a
+quick-and-easy ranged attack.
+
+Undead who lack other means of ranged
+attacks will do well to stock a few of these.

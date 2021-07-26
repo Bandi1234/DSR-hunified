@@ -1,0 +1,2 @@
+Failed to create save data due to
+disconnection from Steam.

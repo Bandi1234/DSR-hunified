@@ -1,0 +1,2 @@
+An error occurred while reading game data.
+Closing game.

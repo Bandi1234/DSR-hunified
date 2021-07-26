@@ -1,0 +1,5 @@
+Starting in offline mode.
+
+To use online features, check to see 
+if your connection is set up properly, 
+and select Log In from Title Menu.

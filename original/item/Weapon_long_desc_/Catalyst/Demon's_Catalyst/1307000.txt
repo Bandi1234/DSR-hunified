@@ -1,0 +1,9 @@
+Weapon type: Catalyst
+Attack type: Thrust
+
+Demon catalyst formed from Izalith molten
+rock. Can be used as fire weapon.
+The Demon Firesage was the first demon,
+and the last master of the original fire
+arts, before the Witch of Izalith was
+engulfed by Chaos, creating pyromancy.

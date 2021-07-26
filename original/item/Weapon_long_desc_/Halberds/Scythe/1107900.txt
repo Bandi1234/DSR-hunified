@@ -1,0 +1,13 @@
+Weapon type: Halberd
+Attack type: Slash
+
+Halberd with a large blade.
+Scythe adjusted for battle.
+
+Designed especially for slicing. However,
+one false swing leaves one wide open.
+
+
+
+
+

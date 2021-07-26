@@ -1,0 +1,2 @@
+Connection to Steam interrupted.
+Returning to Title Menu.

@@ -1,0 +1,8 @@
+Weapon type: Spear
+Attack type: Thrust
+
+Weapon born from the mystical creature of
+the Darkroot Garden, the Moonlight Butterfly.
+
+The horns of the butterfly, a being created
+by Seath, are imbued with a pure magic power.

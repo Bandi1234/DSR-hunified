@@ -1,0 +1,8 @@
+Weapon type: Shield
+Attack type: Strike
+
+Medium metal shield.
+Decorated by an ancient blue Caduceus.
+A standard, widely-used shield.
+
+

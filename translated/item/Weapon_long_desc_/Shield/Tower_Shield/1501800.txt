@@ -1,0 +1,10 @@
+Weapon type: Greatshield
+Attack type: Strike
+
+Metal greatshield. Used by Knight Berenike,
+known for his heavy armor. This thick plate
+of iron is heavily defensive but ultra heavy.
+Greatshields are very stable, and deflect
+attacks. However, one cannot parry,
+and instead bashes with the shield.
+

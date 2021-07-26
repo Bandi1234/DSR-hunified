@@ -1,0 +1,3 @@
+Save file version differs from game version.
+Quit game, sign in to Steam,
+and download update.

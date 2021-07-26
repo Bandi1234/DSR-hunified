@@ -1,0 +1,1 @@
+Lock target on or off/Reset camera

@@ -1,0 +1,8 @@
+Weapon type: Hammer
+Attack type: Thrust
+
+Hammer with a sharp spike on its pommel.
+One of the more barbaric cleric weapons.
+
+Uniquely, this hammer inflicts thrust damage,
+and causes bleeding.

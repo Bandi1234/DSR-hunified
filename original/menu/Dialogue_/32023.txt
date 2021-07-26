@@ -1,0 +1,2 @@
+<?itemNameBeforeForge?>
+reinforced into <?itemNameAfterForge?>.

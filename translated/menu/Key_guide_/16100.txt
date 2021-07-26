@@ -1,0 +1,1 @@
+<?selectUD?>:Select <?conclusion?>:Delete <?cancel?>:Close

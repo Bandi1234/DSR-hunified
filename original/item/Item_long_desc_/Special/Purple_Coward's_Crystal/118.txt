@@ -1,0 +1,9 @@
+Online play item.
+Quit Battle of Stoicism.
+(Session ends if host leaves)
+
+Victory in this battle once led to ancient
+Anor Londo, but even in the absence
+of its overseer, capitulation is a disgrace.
+In the name of a warrior's honor, do not
+quickly resort to use of this crystal.

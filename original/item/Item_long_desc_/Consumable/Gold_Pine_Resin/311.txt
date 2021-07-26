@@ -1,0 +1,7 @@
+Rare pine resin which emits golden sparks.
+Applies lightning to right-hand weapon.
+
+Affected weapon inflicts rare lightning
+damage, making it effective against targets
+which are resilient to both magic and fire.
+Very effective against dragon family foes.

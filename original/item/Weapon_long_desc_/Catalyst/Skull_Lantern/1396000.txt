@@ -1,0 +1,9 @@
+Weapon type: Lantern
+Attack type: Strike
+
+Skull Lantern of the Catacombs necromancer.
+Droops from his long beard locks.
+
+This lantern alights the Tomb of the Giants,
+Nito's light-devouring domain of death.
+Also serves as a fire damage strike weapon.

@@ -1,0 +1,2 @@
+After enabling this setting, hold <?startAction?> and touch
+your amiibo to the NFC touchpoint to use your amiibo in game.

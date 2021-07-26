@@ -1,0 +1,2 @@
+Specify quantity to feed.
+Souls gained: <?sellSouls?>

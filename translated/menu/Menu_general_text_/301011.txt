@@ -1,0 +1,1 @@
+Parameter boosting item discovery and resistance to curses.

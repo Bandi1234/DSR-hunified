@@ -1,0 +1,9 @@
+Weapon type: Axe
+Attack type: Regular
+
+Standard battle axe. Inflicts regular damage,
+making it effective in various situations.
+Powerful attack due to its weight, but one
+wrong swing leaves the wielder wide open,
+so timing and proximity to the enemy must
+be judged carefully.

@@ -1,0 +1,13 @@
+Weapon type: Shield
+Attack type: Strike
+
+Bronze shield of the gargoyle guarding the
+Bell of Awakening in the Undead Church.
+The gargoyle's skin is tough by itself, and
+perhaps its shield may have been a prop,
+for it is a rare example of a metal shield
+that does not reduce physical damage 100%.
+
+
+
+

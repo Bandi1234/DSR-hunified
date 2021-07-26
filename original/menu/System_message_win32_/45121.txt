@@ -1,0 +1,5 @@
+Failed to load save data.
+Would you like to create new save data?
+The current save data will be overwritten.
+
+Press the CANCEL button to reload save data.

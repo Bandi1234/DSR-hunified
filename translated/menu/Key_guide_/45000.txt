@@ -1,0 +1,1 @@
+<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Close <?commando?>:Toggle Display <?categoryChangeL?><?categoryChangeR?>:Change <?shortCutL?>:Remove all from box <?shortCutR?>:Deposit all to box

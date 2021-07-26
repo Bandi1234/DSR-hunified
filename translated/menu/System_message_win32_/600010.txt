@@ -1,0 +1,8 @@
+Article 10 Prohibited Matters
+1. No Player shall be entitled to assign to, transfer to, sell to or buy from another, change the name to another's name of, or provide another as pledge or other security with, any of his/her rights held as a Player, and items, characters and saved data within the game related to the Software which are obtained in the Services (including so-called "real money trading").
+2. No Player shall perform any of the following other acts on the Services:
+(1) Playing a game in a manner offensive to other Players;
+(2) Playing a game using falsified data regardless of the circumstances;
+(3) Playing a game in a manner not intended by the Company using any function or failure of the Software or the Services; or
+(4) Performing any other act determined to be inappropriate by the Company or a third party providing any of the systems used for the Services.
+3. With respect to Players who have performed acts prohibited under this Article, the Company or the third party providing any of the systems used for the Services shall be entitled at its discretion to give such Players warnings, delete the Recorded Data of such Players, or have such Players suspend or cease their use of the Services.

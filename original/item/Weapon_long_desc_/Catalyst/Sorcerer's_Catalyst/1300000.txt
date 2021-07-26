@@ -1,0 +1,9 @@
+Weapon type: Catalyst
+Attack type: Strike
+
+Sorcery catalyst used by sorcerers of
+Vinheim Dragon School.
+
+Equip catalyst to use sorceries.
+Attune sorceries from a scroll at a bonfire.
+Most sorceries have limited no. of uses.

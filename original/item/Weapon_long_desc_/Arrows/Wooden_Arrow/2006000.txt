@@ -1,0 +1,8 @@
+Weapon type: Arrow
+Attack type: Thrust
+
+Standard arrow.
+These arrows do not fly particularly far,
+nor do they inflict a terrible amount of
+damage, but their cheap cost makes them
+useful when volume is required.

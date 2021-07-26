@@ -1,0 +1,2 @@
+Text includes unsupported characters.
+Unsupported characters will be replaced with asterisks (*).

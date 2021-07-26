@@ -1,0 +1,2 @@
+The amiibo data is corrupted.
+Restore the amiibo with data saved on this console?

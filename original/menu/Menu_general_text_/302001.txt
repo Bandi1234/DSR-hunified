@@ -1,0 +1,1 @@
+Durability. Depletes with use. Eventually item becomes ineffective.

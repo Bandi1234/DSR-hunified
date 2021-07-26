@@ -1,0 +1,9 @@
+Online play item.
+Write/view/rate message.
+
+Messages transmit to other worlds, where they
+are rated. Also, rate messages of others.
+
+In Lordran, the flow of time is distorted,
+and messages allow Undead to assist
+(or deceive) one another.

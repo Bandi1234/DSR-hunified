@@ -1,0 +1,2 @@
+Allies receive credit for every fallen enemy.
+In Deathmatch, all players except victim receive credit.

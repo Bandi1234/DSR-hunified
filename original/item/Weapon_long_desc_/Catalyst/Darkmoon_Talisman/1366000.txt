@@ -1,0 +1,8 @@
+Weapon type: Talisman
+Attack type: Strike
+
+Medium for casting miracles of the Gods.
+Granted to Darkmoon Blade knights, adherents
+to the Covenant of the Dark Sun Gwyndolin.
+This talisman demands dutiful faith from its
+owner, but has very high miracle adjustment.

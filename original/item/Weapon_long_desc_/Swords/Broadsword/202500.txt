@@ -1,0 +1,8 @@
+Weapon type: Straight Sword
+Attack type: Regular
+
+The wide blade of this straight sword
+emphasizes slicing and has no thrust attack.
+
+The horizontal sweeping motion makes this
+sword effective against multiple enemies.

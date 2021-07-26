@@ -1,0 +1,4 @@
+No storage device is selected. Game cannot
+be saved. Is this OK? If you continue
+playing, your progress will not be saved,
+and you will be unable to use online play.

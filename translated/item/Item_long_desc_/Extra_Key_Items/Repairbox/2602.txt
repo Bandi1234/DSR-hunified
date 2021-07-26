@@ -1,0 +1,7 @@
+Specialized mortar used to repair weapons
+and armor by grinding repair powder.
+
+Rest at a bonfire to make weapon
+and armor repair possible.
+Repair powder is fragile,
+and cannot be taken along.

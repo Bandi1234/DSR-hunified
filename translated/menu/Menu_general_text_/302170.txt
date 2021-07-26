@@ -1,0 +1,1 @@
+The weapon's category. Weapons of the same category exhibit similar properties.

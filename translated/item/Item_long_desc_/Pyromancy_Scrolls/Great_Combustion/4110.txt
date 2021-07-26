@@ -1,0 +1,6 @@
+Pyromancy which improves upon Combustion.
+Create powerful, giant flame in hand.
+
+Great Combustion creates a powerful flame,
+but many sorcerers mock the simplicity of
+this spell.

@@ -1,0 +1,7 @@
+Weapon type: Shield
+Attack type: Strike
+
+Shield of the savage mountain bandits.
+Uniquely-shaped with a large black spider
+etched upon it.
+Has resistance to poison.

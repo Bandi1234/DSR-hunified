@@ -1,0 +1,8 @@
+Weapon type: Hammer
+Attack type: Strike
+
+Metal hammer of Andre of Astora,
+blacksmith at the Old Church.
+
+Can be used as a strike weapon, but better
+left in the hands of its talented owner.

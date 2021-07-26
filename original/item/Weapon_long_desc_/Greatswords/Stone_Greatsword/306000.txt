@@ -1,0 +1,9 @@
+Weapon type: Greatsword
+Attack type: Regular
+
+The stone knights who guard the Darkroot
+Garden wield this moss-covered greatsword.
+
+The same magic which created the stone
+knights is imbued in the sword. Unleash this
+power by wielding the sword with two hands.

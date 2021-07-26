@@ -1,0 +1,10 @@
+Blue titanite slab for weapon reinforcement.
+Legendary Slabs were the domain of the Gods.
+Reinforces magic weapons to +10,
+and enchanted weapons to +5.
+
+Legendary Slabs are the heirlooms of a
+nameless blacksmith deity, who forged the
+weapons of other Gods. Weapons forged with
+this slab become rare legendary weapons.
+

@@ -1,0 +1,9 @@
+Weapon type: Catalyst
+Attack type: Thrust
+
+Catalyst imbued in terrifying crystal magic.
+Used by Logan after his fixation on Seath.
+
+Makes all sorceries incredibly powerful, but
+demands extremely high intelligence from its
+wielder, and halves sorcery usages.

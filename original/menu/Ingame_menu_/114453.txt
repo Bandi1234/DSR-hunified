@@ -1,0 +1,1 @@
+Use this to select whether to match both teams or only one with the same password. Can be selected when a password is in use.

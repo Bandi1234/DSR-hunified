@@ -1,0 +1,1 @@
+<?selectAll?>:Select <?conclusion?>:Purchase <?cancel?>:Close <?commando?>:Toggle Display

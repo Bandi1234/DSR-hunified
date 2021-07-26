@@ -1,0 +1,9 @@
+Weapon type: Bow
+Attack type: none
+
+The preferred black bow of the heroic
+archer Pharis.
+
+Has a longer range than standard bows,
+but is more difficult to use. Without proper
+abilities, results will be underwhelming.

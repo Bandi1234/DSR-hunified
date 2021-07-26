@@ -1,0 +1,8 @@
+Weapon type: Greatsword
+Attack type: Regular/Thrust
+
+This larger type of greatsword is normally
+wielded with two hands due to its weight.
+
+This highly flexible greatsword can be used
+to attack in swings or thrusts.

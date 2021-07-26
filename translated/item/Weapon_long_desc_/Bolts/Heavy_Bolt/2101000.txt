@@ -1,0 +1,8 @@
+Weapon type: Bolt
+Attack type: Thrust
+
+Large bolt.
+Used mainly with the Heavy Crossbow.
+
+These weighty bolts inflict high damage,
+but have reduced range.

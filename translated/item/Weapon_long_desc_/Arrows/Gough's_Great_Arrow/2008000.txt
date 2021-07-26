@@ -1,0 +1,9 @@
+Weapon type: Great Arrow
+Attack type: Thrust
+
+Great arrow used by Hawkeye Gough,
+one of Lord Gwyn's Four Knights,
+for dragon slaying. Requires Greatbow.
+
+Gough personally crafts each stone tip,
+and wraps the shaft tightly with tree bark.

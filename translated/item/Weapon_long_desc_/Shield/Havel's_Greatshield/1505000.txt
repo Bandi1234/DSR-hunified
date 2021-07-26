@@ -1,0 +1,9 @@
+Weapon type: Greatshield
+Attack type: Strike
+
+Greatshield of the legendary Havel the Rock.
+Cut straight from a great slab of stone.
+This greatshield is imbued with the magic
+of Havel, provides strong defense, and is
+incredibly heavy. A true divine heirloom
+on par with the Dragon Tooth.

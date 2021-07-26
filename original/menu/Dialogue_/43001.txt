@@ -1,0 +1,3 @@
+Changing gender will cause
+edited face data to be lost.
+Change gender?

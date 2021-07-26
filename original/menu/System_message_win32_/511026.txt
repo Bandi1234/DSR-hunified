@@ -1,0 +1,8 @@
+20. 	GOVERNING LAW.
+To the extent required by applicable law, all terms and provisions of this Agreement shall be governed and construed in accordance with all applicable mandatory laws, even if inconsistent with the governing law set forth in this Section 20 and in no event shall the application, interpretation, or enforcement of the terms of this Agreement, under any jurisdictional law contemplated by this Section 20 exclude, limit, or otherwise restrict any rights vested with you, as a consumer, under any applicable consumer protection laws. Please note that your conduct may also be subject to other local, state, national, and international laws. The parties agree that the UN Convention on Contracts for the International Sale of Goods shall not apply to any dispute or transaction arising out of this Agreement.
+a)	If you reside in North, Central, or South America:
+The laws of the State of California, excluding its conflicts-of-law rules, govern the application, interpretation, or enforcement of the terms of this Agreement and your use of the Game.
+b)	If you reside in Asia (excluding Japan):
+Any dispute between the parties arising from or relating to this Agreement, will be governed by this Agreement and the laws of Singapore, without giving effect to any conflict of laws principles that may provide for the application of the law of another jurisdiction.
+c)	If you reside in any other location:
+Any dispute between the parties arising from or relating to this Agreement, will be governed by this Agreement and the laws of France, without giving effect to any conflict of laws principles that may provide for the application of the law of another jurisdiction.

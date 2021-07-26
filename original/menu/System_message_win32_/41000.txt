@@ -1,0 +1,2 @@
+This will delete selected save data.
+Is this OK?

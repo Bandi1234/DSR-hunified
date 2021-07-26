@@ -1,0 +1,10 @@
+Common miracle amongst cleric knights.
+Create shockwave.
+
+This quickly-acting miracle inflicts no
+damage, but propels foes back and defends
+against arrows. Cleric knights use this
+miracle when charging into enemy mobs.
+
+
+

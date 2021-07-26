@@ -1,0 +1,9 @@
+Weapon type: Thrusting Sword
+Attack type: Regular/Thrust
+
+A symbolic, powerful thrusting sword used
+by the Pardoner serving Velka,
+Goddess of Sin.
+It is no mere symbol to be sure; the Pardoner
+is an inhuman swordsman, and wields this
+enchanted blade with special sword technique.

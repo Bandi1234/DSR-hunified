@@ -1,0 +1,8 @@
+Weapon type: Curved Greatsword
+Attack type: Slash
+
+A curved greatsword used in a
+mysterious ancient rite.
+
+Imbued with a frightful heretical energy,
+this sword restores HP with each hit.

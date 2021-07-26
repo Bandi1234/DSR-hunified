@@ -1,0 +1,10 @@
+Weapon type: Small Shield
+Attack type: Strike
+
+Frightful occult shield. Defends against
+divine weapons and lightning.
+
+In an ill-fated plot to destroy the very
+gods, the followers of the occult once
+attempted to steal the power of
+Gravelord Nito, the first of the dead.

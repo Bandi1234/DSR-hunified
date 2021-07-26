@@ -1,0 +1,11 @@
+Soul of a long-lost Fire Keeper.
+
+Each Fire Keeper is a corporeal manifestation
+of her bonfire, and a draw for the humanity
+which is offered to her. Her soul is gnawed
+by infinite humanity, and can boost the power
+of precious Estus Flasks.
+
+It can be used to gain Humanity and restore HP
+at the cost of losing the Fire Keeper soul to
+reinforce the Estus Flasks.

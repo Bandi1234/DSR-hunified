@@ -1,0 +1,8 @@
+Weapon type: Curved Sword
+Attack type: Slash/Thrust
+
+Jagged blade wielded by New Londo ghosts.
+Violent thrust attack.
+
+One of the cursed weapons.
+Inflicts damage to ghosts.

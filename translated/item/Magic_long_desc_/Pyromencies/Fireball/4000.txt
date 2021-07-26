@@ -1,0 +1,6 @@
+Standard pyromancy of the Great Swamp.
+Hurl fireball.
+
+The fire damage caused by fireballs makes
+them effective against corporeal beasts and
+Undead, who by nature fear flame.

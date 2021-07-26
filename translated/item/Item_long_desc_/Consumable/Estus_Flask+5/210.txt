@@ -1,0 +1,10 @@
+The Undead treasure these dull green flasks.
+Fill with Estus at bonfire. Fills HP.
+
+The Estus Flasks are linked to the Fire
+Keepers. The Dark Tales also make reference:
+
+   An emerald flask, from the Keeper's soul
+   She lives to protect the flame,
+   And dies to protect it further
+

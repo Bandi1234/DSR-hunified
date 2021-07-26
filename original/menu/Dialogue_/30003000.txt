@@ -1,0 +1,4 @@
+Resolution changed.
+Change to this setting?
+*Resolution will revert to original setting
+after <?pcenvTimer1?> seconds without a response.

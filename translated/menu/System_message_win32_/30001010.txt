@@ -1,0 +1,2 @@
+This game requires DirectX 9.
+Please install DirectX 9 to play.

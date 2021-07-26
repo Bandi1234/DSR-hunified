@@ -1,0 +1,9 @@
+Weapon type: Pyromancy Flame
+Attack type: Strike
+
+Pyromancy flame drawing upon the latent power
+of Quelana of Izalith, mother of pyromancy.
+For the pyromancer, a flame is a precious
+thing indeed, to be nurtured, often for an
+entire lifetime. When the flame is shared, it
+creates an eternal bond between the parties.

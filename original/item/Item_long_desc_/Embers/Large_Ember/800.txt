@@ -1,0 +1,9 @@
+Ember required for weapon ascension.
+A large, high-quality ember.
+Handled by the blacksmiths of Astora.
+
+Ascension for +5 standard weapon.
+Allows reinforcement to +10.
+
+Also, can ascend +5 std wpn to raw wpn.
+(raw weapon can be reinforced to +5)

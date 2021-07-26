@@ -1,0 +1,2 @@
+Failed to create save data.
+Press "OK" to try again.

@@ -1,0 +1,7 @@
+Weapon type: Bolt
+Attack type: Thrust
+
+Red feather bolts used with the Sniper
+Crossbow. Their long range makes them
+effective for sniping.
+

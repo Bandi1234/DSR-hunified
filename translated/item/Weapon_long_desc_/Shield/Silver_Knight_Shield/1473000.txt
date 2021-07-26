@@ -1,0 +1,10 @@
+Weapon type: Shield
+Attack type: Strike
+
+Shield of the Silver Knights of Anor Londo.
+A flowing canal is carved deep into its face.
+The Silver Knights stayed behind in Anor
+Londo to defend the illusory goddess,
+and their shields are blessed with her
+divine protection.
+

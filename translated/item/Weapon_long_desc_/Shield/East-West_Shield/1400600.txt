@@ -1,0 +1,10 @@
+Weapon type: Shield
+Attack type: Strike
+
+Wooden shield.
+Decorated with the ancient symbol of
+a double-headed eagle, painted yellow.
+
+Wood shields are lighter than metal shields,
+but with lower physical damage reduction,
+and reduced shield stability.

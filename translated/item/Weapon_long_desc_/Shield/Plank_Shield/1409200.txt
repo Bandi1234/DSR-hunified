@@ -1,0 +1,6 @@
+Weapon type: Small Shield
+Attack type: Strike
+
+Makeshift shield built from wood planks.
+Provides minimal protection,
+but at a cost of moderate humiliation.

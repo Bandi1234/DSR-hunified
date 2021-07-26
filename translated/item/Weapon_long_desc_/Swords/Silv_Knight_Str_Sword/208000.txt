@@ -1,0 +1,9 @@
+Weapon type: Straight Sword
+Attack type: Regular
+
+The silver knights of Anor Londo guard the
+city using this beautifully slender weapon.
+
+Its chain attacks, in which the wielder takes
+great advancing steps and makes use of his
+bodyweight, are deadly even in single hits.

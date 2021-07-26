@@ -1,0 +1,1 @@
+Cannot enter covenant with phantom present.

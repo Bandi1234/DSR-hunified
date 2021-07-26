@@ -1,0 +1,1 @@
+Resistance to bleeding caused by sharp objects. Higher value indicates lower tendency to bleed.

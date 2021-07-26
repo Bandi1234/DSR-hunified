@@ -1,0 +1,2 @@
+Cannot reinforce this armor.
+Reinforcement would result in exceeding inventory limit.

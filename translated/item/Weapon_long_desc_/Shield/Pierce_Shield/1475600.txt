@@ -1,0 +1,7 @@
+Weapon type: Shield
+Attack type: Thrust
+
+Shield of certain knights of Catarina, used
+in attacks with a large protrusion in center.
+
+Can be used as a thrust weapon.

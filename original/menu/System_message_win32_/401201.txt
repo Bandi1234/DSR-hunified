@@ -1,0 +1,2 @@
+Unable to connect to the network.
+Please check your network settings.

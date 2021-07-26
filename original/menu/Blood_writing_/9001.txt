@@ -1,0 +1,2 @@
+<?startMenuSwitch?> : Open Menu
+Arms Icon : Change Equipment

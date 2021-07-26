@@ -1,0 +1,1 @@
+Turns enemy toxic, but also affects player

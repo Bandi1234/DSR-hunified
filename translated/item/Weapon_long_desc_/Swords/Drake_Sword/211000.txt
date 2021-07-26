@@ -1,0 +1,9 @@
+Weapon type: Straight Sword
+Attack type: Regular
+
+This sword, one of the rare dragon weapons,
+is formed by a drake's tail. Drakes are
+seen as undeveloped imitators of the dragons,
+but in they are likely their distant kin.
+The sword is imbued with a mystical power,
+to be released when held with both hands.

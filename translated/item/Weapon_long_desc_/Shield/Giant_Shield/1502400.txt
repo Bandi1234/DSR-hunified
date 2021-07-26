@@ -1,0 +1,9 @@
+Weapon type: Greatshield
+Attack type: Strike
+
+Greatshield made of bronze and marcasite.
+Used by giant sentinels of Anor Londo.
+Marcasite, or white iron, is effective
+against non-physical damage, but as the
+shield is designed for the giant sentinels,
+its weight is unbearable.

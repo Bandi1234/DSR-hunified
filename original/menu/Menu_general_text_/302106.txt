@@ -1,0 +1,1 @@
+Degree of boost to magic (sorcery, pyromancy, or miracle)

@@ -1,0 +1,2 @@
+Cannot reinforce this weapon.
+Reinforcement would result in exceeding inventory limit.

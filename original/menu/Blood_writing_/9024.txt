@@ -1,0 +1,2 @@
+With Talisman equipped <?attackR?> : Use Miracle
+<?changeMagic?> : Toggle Miracles

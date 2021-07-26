@@ -1,0 +1,9 @@
+Weapon type: Ultra Greatsword
+Attack type: Regular
+
+One of the gigantic straight greatswords.
+
+As the name suggests, the Zweihander is held
+with two hands, but its wielder must still be
+inhumanly strong. It is this great weight
+that sends foes flying when hit solidly.

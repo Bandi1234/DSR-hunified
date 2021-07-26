@@ -1,0 +1,3 @@
+Combatants are divided into two teams.
+Compete for the most kills within the time limit.
+Use of Estus Flask is limited.

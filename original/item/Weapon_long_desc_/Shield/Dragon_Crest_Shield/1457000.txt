@@ -1,0 +1,9 @@
+Weapon type: Shield
+Attack type: Strike
+
+Shield of a nameless knight, likely a
+high-ranked knight of Astora.
+
+One of the enchanted blue shields.
+The Dragon Crest Shield greatly reduces
+fire damage.

@@ -1,0 +1,11 @@
+Weapon type: Pyromancy Flame
+Attack type: Strike
+
+Flame medium used by Great Swamp pyromancers.
+Pyromancers arouse this flame to produce
+various fire arts.
+Equip pyromancer flame to produce pyromancy.
+Attune pyromancies from a scroll at bonfire.
+Most pyromancies have limited no. of uses.
+
+

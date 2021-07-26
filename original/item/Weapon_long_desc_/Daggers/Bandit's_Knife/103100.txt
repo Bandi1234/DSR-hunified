@@ -1,0 +1,9 @@
+Weapon type: Dagger
+Attack type: Slash
+
+This wide single-edged shortsword is
+the favorite of lowly thieves and bandits.
+
+Primarily a slicing weapon, but highly
+effective when used for critical hits,
+such as after parrying or from behind.

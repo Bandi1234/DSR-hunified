@@ -1,0 +1,2 @@
+With Pyromancy Flame equipped <?attackR?> : Use Pyromancy
+<?changeMagic?> : Change Pyromancy

@@ -1,0 +1,3 @@
+Explodes upon impact
+when thrown. More
+deadly than std bomb.

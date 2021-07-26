@@ -1,0 +1,9 @@
+Ember required for weapon ascension.
+Crystal ember created by Seath the Scaleless.
+Handled only by the giant God's blacksmiths.
+
+Ascends +10 standard wpn to crystal weapon.
+(crystal weapon can be reinforced to +5)
+
+Crystal weapons are powerful but brittle,
+and cannot be repaired once broken.

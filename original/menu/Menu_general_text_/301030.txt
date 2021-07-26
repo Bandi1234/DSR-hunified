@@ -1,0 +1,1 @@
+Hit points. Character dies when this reaches zero.

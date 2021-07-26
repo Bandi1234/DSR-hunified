@@ -1,0 +1,1 @@
+Prevents Estus recovery within a limited area

@@ -1,0 +1,2 @@
+There are 3 types of Battle of Stoicism matches:
+Duel, Team, and Deathmatch.

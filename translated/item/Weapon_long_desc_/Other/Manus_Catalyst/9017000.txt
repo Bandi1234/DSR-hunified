@@ -1,0 +1,10 @@
+Weapon type: Catalyst
+Attack type: Strike
+
+A sorcery catalyst born from the soul of
+Manus, Father of the Abyss.
+A rough, old wooden catalyst large enough
+to be used as a strike weapon.
+Similar to the Tin Crystallization Catalyst,
+it boosts the strength of sorceries,
+but limits the number of castings.

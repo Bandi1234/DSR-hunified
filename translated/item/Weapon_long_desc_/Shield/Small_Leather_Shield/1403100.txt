@@ -1,0 +1,8 @@
+Weapon type: Small Shield
+Attack type: Strike
+
+Small, leather-covered round shield,
+reinforced in critical spots with metal.
+
+Small shields are always less stable, but
+landing critical hits after parry is easier.

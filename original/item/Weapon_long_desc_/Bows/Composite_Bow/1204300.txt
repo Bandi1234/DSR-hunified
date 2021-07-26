@@ -1,0 +1,8 @@
+Weapon type: Bow
+Attack type: none
+
+Composite bow emphasizing power.
+Requires more strength than standard bows.
+
+However, its range is shorter, making it
+unfit for sniping.

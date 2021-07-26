@@ -1,0 +1,10 @@
+Weapon type: Spear
+Attack type: Regular/Thrust
+
+The silver knights of Anor Londo guard the
+city using this beautifully slender weapon.
+
+The spear can be wielded by both hands in a
+focused thrust that uses one's body weight,
+or swung in a large sweeping motion.
+

@@ -1,0 +1,10 @@
+Weapon type: Talisman
+Attack type: Strike
+
+Medium for casting miracles of the Gods.
+The talisman of Solaire of Astora, the Knight
+of Sunlight, is decorated with a holy symbol,
+illustrated by Solaire himself.
+This talisman is a projection of Solaire's
+upstanding, unwavering faith.
+

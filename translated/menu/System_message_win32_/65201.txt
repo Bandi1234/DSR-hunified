@@ -1,0 +1,3 @@
+Not enough free space on the hard drive.
+At least <?dataSize?> MB of free space
+is required to save data.

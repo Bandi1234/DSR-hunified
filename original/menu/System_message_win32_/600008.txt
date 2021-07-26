@@ -1,0 +1,7 @@
+Article 8. Suspension of the Services
+1. The Company shall, in cases falling under the following items, suspend any part or all of the Services without prior notice to Players:
+(1) Where any failure or other defect occurs in any of the systems used for the Services (including, but not limited to communication lines, power sources, and any structures where the foregoing is accommodated);
+(2) Where maintenance, inspection, repair or modification work is regularly or urgently carried out on any systems used for the Services;
+(3) Where services for STEAM® cease or are suspended; or
+(4) Otherwise where the Company determines that it is necessary to suspend the Services for operational or technical reasons.
+2. Even if the provision of the Services is delayed or suspended for any of the reasons listed in the items of the preceding paragraph, and thereby any loss or damage is caused to Players or other third parties, the Company shall not be liable therefor in any way whatsoever.

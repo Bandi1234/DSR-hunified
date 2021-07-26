@@ -1,0 +1,6 @@
+Weapon type: Arrow
+Attack type: Thrust
+
+Large arrow.
+Heavier arrows cause more damage,
+but have a shorter range.

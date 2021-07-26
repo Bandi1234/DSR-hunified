@@ -1,0 +1,9 @@
+Weapon type: Shield
+Attack type: Strike
+
+Large, leather-covered round shield.
+Choice shield for hunters.
+
+Wood shields are lighter than metal shields,
+but with lower physical damage reduction,
+and reduced shield stability.

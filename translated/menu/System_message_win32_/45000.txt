@@ -1,0 +1,4 @@
+This game uses an autosave function.
+Do not turn off the power or quit
+the game while the save indicator
+is seen at upper-right of screen.

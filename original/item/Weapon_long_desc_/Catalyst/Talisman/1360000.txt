@@ -1,0 +1,9 @@
+Weapon type: Talisman
+Attack type: Strike
+
+Medium for casting miracles of the Gods.
+Standard talisman issued to common believers.
+
+Equip talisman to cast miracles. 
+Attune miracles from a scroll at a bonfire.
+Most miracles have limited no. of uses.

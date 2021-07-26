@@ -1,0 +1,9 @@
+Weapon type: Dagger
+Attack type: Slash/Thrust
+
+This standard small dagger has only a modest
+attack but can be jabbed in rapid succession,
+and is effective in critical hits such as
+after a parry or when stabbing in the back.
+With both slash and thrust attacks, this
+dagger is useful in various situations.

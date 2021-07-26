@@ -1,0 +1,2 @@
+Restrict the visibility of your summon sign in enemy phantom
+worlds.

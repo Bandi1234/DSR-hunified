@@ -1,0 +1,1 @@
+Use this to select a team. Can be selected when the password applies to "All."

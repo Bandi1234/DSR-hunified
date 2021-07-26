@@ -1,0 +1,9 @@
+Weapon type: Catalyst
+Attack type: Strike
+
+Catalyst of Big Hat Logan, the great sorcerer
+and seeker of knowledge.
+Originally the same catalyst employed by the
+Vinheim sorcerers, only terribly strengthened
+over time due to Logan's use. Very powerful
+when used by one of superior intelligence.

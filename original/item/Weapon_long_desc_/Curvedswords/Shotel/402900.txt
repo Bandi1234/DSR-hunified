@@ -1,0 +1,8 @@
+Weapon type: Curved Sword
+Attack type: Slash
+
+Curved sword with sharply curved blade.
+
+Created by Arstor, Earl of Carim.
+Requires great skill to wield, but evades
+shield defense to sneak in damage.

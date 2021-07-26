@@ -1,0 +1,6 @@
+No save data found.
+Create save data?
+- Note -
+This game supports autosave. Data will
+be overwritten automatically to the
+hard drive.

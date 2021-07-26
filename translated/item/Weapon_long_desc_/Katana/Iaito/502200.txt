@@ -1,0 +1,9 @@
+Weapon type: Katana
+Attack type: Slash
+
+Katana forged in an Eastern land.
+The Katana is drawn from the scabbard at
+lightning speed, using an Iaijutsu technique.
+
+Iaijutsu allows the wielder to charge
+forward to swiftly cut down distant foes.

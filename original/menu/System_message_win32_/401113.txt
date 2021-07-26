@@ -1,0 +1,3 @@
+The game version and save data version are different.
+Quit the game and use the Steam client to update
+DARK SOULS™: REMASTERED to the latest version before trying again.

@@ -1,0 +1,2 @@
+A network error has occurred.
+Cannot use Steam multiplayer.

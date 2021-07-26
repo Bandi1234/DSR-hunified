@@ -1,0 +1,10 @@
+Weapon type: Fists
+Attack type: Strike
+
+The weapon augments one's bare hands
+with thick, studded leather.
+
+The Caestus has a short reach, but quick
+cool down. Amount of damage inflicted is
+dependent on its wearer's strength.
+

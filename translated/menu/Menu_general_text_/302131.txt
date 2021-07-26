@@ -1,0 +1,2 @@
+Determines strength of bleeding/poison effects
+and divine/occult effects targeting specific foes.

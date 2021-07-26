@@ -1,0 +1,14 @@
+Lightly enchanted golden powder.
+Repairs weapon equipped in right hand.
+
+Use of a weapon depletes its durability,
+eventually rendering it ineffective.
+
+Repair Powder is a precious method of repair
+on the battlefield, as it obviates the need
+for a Repairbox.
+
+
+
+
+

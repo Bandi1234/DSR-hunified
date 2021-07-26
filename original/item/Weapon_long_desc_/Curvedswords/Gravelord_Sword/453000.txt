@@ -1,0 +1,9 @@
+Weapon type: Curved Greatsword
+Attack type: Slash/Thrust
+
+Sword wielded only by servants of
+Gravelord Nito, the first of the dead.
+Crafted from the bones of the fallen.
+
+The miasma of death exudes from the sword,
+a veritable toxin to any living being.

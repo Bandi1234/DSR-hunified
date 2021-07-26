@@ -1,0 +1,10 @@
+Weapon type: Dagger
+Attack type: Slash/Thrust
+
+The ghosts of New Londo clutch this wickedly
+sharp dagger with their bony hands and make
+mincemeat of the living.
+
+One of the cursed weapons which can inflict
+damage upon ghosts.
+

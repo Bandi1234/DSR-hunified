@@ -1,0 +1,2 @@
+Failed to initialize character info for online play.
+Select "OK" to try again.

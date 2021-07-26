@@ -1,0 +1,4 @@
+Failed to save game.
+Insufficient free space to save game.
+
+Select "OK" to try again.

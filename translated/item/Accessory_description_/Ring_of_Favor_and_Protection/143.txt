@@ -1,0 +1,1 @@
+Boosts HP, stamina, load. Breaks when removed.

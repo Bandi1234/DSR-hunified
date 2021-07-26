@@ -1,0 +1,7 @@
+Elementary miracle cast by clerics.
+Restores HP.
+
+To cast a miracle, the caster learns a tale
+of the Gods, and says a prayer to be blessed
+by its revelations. Heal is the shortest
+of such miraculous tales.

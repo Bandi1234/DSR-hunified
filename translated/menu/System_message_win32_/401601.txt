@@ -1,0 +1,2 @@
+Failed to acquire information.
+Select "OK" to try again.

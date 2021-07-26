@@ -1,0 +1,9 @@
+Weapon type: Great Arrow
+Attack type: Thrust
+
+Giant dragon-hunting arrows, resembling
+iron spears. Used by Hawkeye Gough and
+his Dragonslayers, they puncture human
+flesh easily. Dragonslayer Arrows can only
+be used with the Dragonslayer Greatbow,
+and vice-versa. 

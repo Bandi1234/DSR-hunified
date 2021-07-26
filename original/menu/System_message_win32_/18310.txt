@@ -1,0 +1,1 @@
+<?selectUD?>:Select <?selectLR?>Change level tier <?conclusion?>:Details <?commando?>:Steam User Info <?cancel?>:Close <?categoryChangeL?>:Above 100 <?categoryChangeR?>:Below 100 <?shortCutL?>:Show leaders <?shortCutR?>:Your rank

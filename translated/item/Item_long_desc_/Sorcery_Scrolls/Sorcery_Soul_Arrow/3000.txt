@@ -1,0 +1,6 @@
+Elementary sorcery.
+Fire soul arrow.
+
+Soul arrows inflict magic damage, making them
+effective against iron armor, tough scales,
+and other physically resilient materials.

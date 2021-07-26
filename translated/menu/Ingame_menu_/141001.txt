@@ -1,0 +1,1 @@
+<?conclusion?>:OK　<?cancel?>:CANCEL

@@ -1,0 +1,2 @@
+Failed to save game.
+Save data is corrupted.

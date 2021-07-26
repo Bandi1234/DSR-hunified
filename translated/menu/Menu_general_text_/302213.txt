@@ -1,0 +1,1 @@
+Parameter for resistance to curses. Higher value indicates lower tendency to be cursed.

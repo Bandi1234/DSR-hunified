@@ -1,0 +1,9 @@
+Weapon type: Straight Sword
+Attack type: Regular/Thrust
+
+This standard longsword, belonging to Solaire
+of Astora, is of high quality, is well-
+forged, and has been kept in good repair.
+
+Easy-to-use and dependable, but unlikely to
+live up to its grandiose name.

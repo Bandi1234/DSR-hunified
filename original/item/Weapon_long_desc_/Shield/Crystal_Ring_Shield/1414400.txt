@@ -1,0 +1,8 @@
+Weapon type: Small Shield
+Attack type: Strike
+
+Weapon born from the mystical creature of
+the Darkroot Garden, the Moonlight Butterfly.
+Imbued with a powerful crystal power, like
+the butterfly created by Seath the Scaleless.
+Can emit crystal light rings.

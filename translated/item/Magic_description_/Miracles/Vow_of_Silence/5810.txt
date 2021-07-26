@@ -1,0 +1,1 @@
+Prevents casting of magic within effect area

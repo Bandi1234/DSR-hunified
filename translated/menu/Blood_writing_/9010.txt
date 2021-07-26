@@ -1,0 +1,2 @@
+<?subAttackL?> : Parry (Repel an enemy attack)
+After parrying, <?attackR?> : Riposte

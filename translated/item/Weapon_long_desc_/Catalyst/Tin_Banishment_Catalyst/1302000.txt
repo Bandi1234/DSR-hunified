@@ -1,0 +1,9 @@
+Weapon type: Catalyst
+Attack type: Thrust
+
+Catalyst of the banishment sorcerers who
+flooded New Londo to seal off away the
+Darkwraiths and the Kings who fell to Dark.
+In contrast to other catalysts, the metal
+catalyst qualifies as a weapon, as it
+inflicts physical damage, however small.

@@ -1,0 +1,1 @@
+<?selectUD?>:Select <?selectLR?>:Change Value <?conclusion?>:Select <?cancel?>:Back <?spin?>:Rotate Face

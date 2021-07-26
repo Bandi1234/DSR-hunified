@@ -1,0 +1,5 @@
+Generally, you can delete all the cookies already stored on your computer. You can also set most browsers to disable cookies. To do so, you shall modify your browser settings. In your browser, the Help section of your browser will provide you any information you need for managing cookies. In that case you might have to proceed to manual settings of some preferences for each time you visit the website. Managing cookies may prevent you from having access to some site functions or features. For information on how to manage cookie options in your browser settings, please visit http://www.allaboutcookies.org/manage-cookies/.
+
+Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Services. To delete or disable flash cookies please visit http://www.macromedia.com/support/documentation/en/flashplayer/help/help02.html for more information.
+
+Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.

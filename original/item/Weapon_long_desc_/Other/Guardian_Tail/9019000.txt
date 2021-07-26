@@ -1,0 +1,8 @@
+Weapon type: Whip
+Attack type: Regular
+
+Sliced tail of the Sanctuary Guardian.
+
+This flexible, spiked, and highly
+poisonous tail would make a rather
+obnoxious weapon.

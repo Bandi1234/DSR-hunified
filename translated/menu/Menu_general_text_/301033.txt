@@ -1,0 +1,2 @@
+Resistance to bleeding caused by sharp blades and spiked weapons.
+Higher value indicates lower tendency to bleed.

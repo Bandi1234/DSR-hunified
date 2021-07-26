@@ -1,0 +1,8 @@
+Titanite shard for weapon reinforcement.
+Most common titanite material.
+Reinforces standard weapons to +5.
+
+Titanite shards are fragments of
+the Legendary Slabs. Titanite is
+etched into weapons to reinforce.
+

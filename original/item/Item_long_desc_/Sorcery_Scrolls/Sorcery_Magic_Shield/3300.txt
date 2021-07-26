@@ -1,0 +1,7 @@
+Sorcery for casters who wield swords.
+Magic augmentation: left shield.
+
+Shields augmented by magic are resistant to
+magic attacks and have higher stability.
+This spell makes it possible to challenge
+powerful foes with a small shield.

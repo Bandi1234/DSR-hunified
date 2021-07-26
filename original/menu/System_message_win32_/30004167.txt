@@ -1,0 +1,1 @@
+Menu func. 2: toggle disp./remove equip., etc.

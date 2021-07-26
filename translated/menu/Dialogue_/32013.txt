@@ -1,0 +1,2 @@
+Ascend <?itemNameBeforeForge?>
+to <?itemNameAfterForge?>?

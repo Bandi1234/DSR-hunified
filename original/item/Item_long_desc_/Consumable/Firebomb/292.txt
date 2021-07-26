@@ -1,0 +1,9 @@
+Bisque urn filled with black powder.
+Explodes, inflicting fire damage.
+
+Relatively powerful ranged weapon, especially
+in situations calling for fire damage.
+A very precious item at low levels.
+
+Many warriors use these to augment their
+strategic repertoire.

@@ -1,0 +1,1 @@
+Ranking Data cannot be acquired in Offline Mode

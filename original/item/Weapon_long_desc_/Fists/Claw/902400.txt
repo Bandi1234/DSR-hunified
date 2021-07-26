@@ -1,0 +1,8 @@
+Weapon type: Fists
+Attack type: Slash
+
+A weapon formed by three sharp claws.
+
+Attacks cause bleeding, and the wounds
+inflicted are not easily mended. Preferred
+weapon of the spooks of an Eastern land.

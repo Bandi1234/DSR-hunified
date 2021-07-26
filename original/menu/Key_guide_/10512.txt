@@ -1,0 +1,1 @@
+<?categoryChangeL?><?categoryChangeR?>:Change language <?conclusion?>:Close

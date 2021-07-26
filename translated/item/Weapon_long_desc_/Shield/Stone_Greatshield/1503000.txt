@@ -1,0 +1,8 @@
+Weapon type: Greatshield
+Attack type: Strike
+
+Mossy round greatshield used by the guardian
+of the Darkroot Garden, the Stone Knight.
+The Stone Knight is a creation of ancient
+magic, and this shield is imbued with the
+same power, but is also extremely heavy.

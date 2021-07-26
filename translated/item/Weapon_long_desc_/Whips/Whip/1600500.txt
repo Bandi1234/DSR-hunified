@@ -1,0 +1,9 @@
+Weapon type: Whip
+Attack type: Regular
+
+Leather whip.
+Not intended for battle.
+
+Virtually ineffective against armor and tough
+scales, but quite formidable against enemies
+with exposed skin.

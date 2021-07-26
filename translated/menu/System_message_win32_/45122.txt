@@ -1,0 +1,7 @@
+Last time, the game may not have been
+closed using Quit Game in the System menu.
+To quit the game, always select Quit Game
+from the System menu.
+
+Failing to quit the game properly can result
+in losing some progress.

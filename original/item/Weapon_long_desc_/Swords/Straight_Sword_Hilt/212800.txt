@@ -1,0 +1,9 @@
+Weapon type: Straight Sword
+Attack type: Regular/Thrust
+
+The hilt of this lost sword was found
+discarded in the Undead Asylum.
+
+Only slightly better than one's bare hands,
+and not recommended for extensive use.
+Be certain to find a replacement quickly.

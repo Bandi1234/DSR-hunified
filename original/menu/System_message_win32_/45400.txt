@@ -1,0 +1,4 @@
+You can't create any more characters.
+Delete an existing character and create a new one?
+
+*You can create up to 10 characters.

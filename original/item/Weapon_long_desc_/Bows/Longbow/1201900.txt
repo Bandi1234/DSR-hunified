@@ -1,0 +1,9 @@
+Weapon type: Bow
+Attack type: none
+
+Large bow. Projectile weapon for experienced
+hunters. Equip arrows to use.
+
+Hold bow and press <?platmsg@10002?> to aim.
+Aim for heads of humanoid foes.
+Press <?platmsg@10003?>/<?platmsg@10004?> to change type of arrows.

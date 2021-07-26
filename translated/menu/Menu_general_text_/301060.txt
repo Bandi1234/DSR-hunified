@@ -1,0 +1,1 @@
+Number of attunement slots for sorcery/pyromancy/miracles.

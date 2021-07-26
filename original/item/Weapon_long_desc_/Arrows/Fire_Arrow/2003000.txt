@@ -1,0 +1,5 @@
+Weapon type: Arrow
+Attack type: Thrust
+
+Arrows fired with flaming tips.
+Inflicts fire damage.

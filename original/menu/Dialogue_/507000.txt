@@ -1,0 +1,2 @@
+No input detected for a set time.
+Returned to your world.

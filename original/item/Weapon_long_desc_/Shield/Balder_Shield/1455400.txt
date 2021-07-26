@@ -1,0 +1,8 @@
+Weapon type: Shield
+Attack type: Strike
+
+Shield of the knights of the ancient kingdom
+of Balder. Tweaked for improved stability.
+Balder was the home of Knight King Rendal,
+but the kingdom was reduced to ruins after
+a widespread outbreak of Undead.

@@ -1,0 +1,9 @@
+Weapon type: Crossbow
+Attack type: none
+
+Standard crossbow issued to soldiers.
+While bows require both hands, a crossbow is
+held in one, but arming each bolt takes time.
+
+Equip bolts to use.
+Press <?platmsg@10003?>/<?platmsg@10004?> to change type of bolt.

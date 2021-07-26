@@ -1,0 +1,4 @@
+Save file version differs from game version.
+Sign in to Steam and
+acquire newest version of the game.
+Closing game.

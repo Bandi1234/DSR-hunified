@@ -1,0 +1,3 @@
+Please wait until all combatants have joined.
+Total players: <?matchTotalCount?>
+Remaining: <?matchRemainingMyCount?> allies / <?matchRemainingEnemyCount?> foes

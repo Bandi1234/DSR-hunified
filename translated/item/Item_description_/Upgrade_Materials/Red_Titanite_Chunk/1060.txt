@@ -1,0 +1,1 @@
++9 reinforce: fire weapon. +4 reinforce: chaos weapon.

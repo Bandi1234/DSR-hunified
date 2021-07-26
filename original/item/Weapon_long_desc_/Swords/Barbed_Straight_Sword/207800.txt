@@ -1,0 +1,9 @@
+Weapon type: Straight Sword
+Attack type: Regular/Thrust
+
+The choice weapon of the infamous Darkwraith
+Kirk, also known as the Knight of Thorns for
+the gnarly spikes on his favorite weapon.
+
+The sharp spikes of this ghastly weapon
+cause heavy bleeding.

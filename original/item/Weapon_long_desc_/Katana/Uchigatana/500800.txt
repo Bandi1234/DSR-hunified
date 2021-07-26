@@ -1,0 +1,14 @@
+Weapon type: Katana
+Attack type: Slash/Thrust
+
+Katana forged in an Eastern land.
+Known for its brisk slashing motions.
+
+The Uchigatana cuts beautifully and causes
+bleeding, but its blade is easily nicked.
+
+
+
+
+
+

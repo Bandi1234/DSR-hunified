@@ -1,0 +1,9 @@
+Weapon type: Catalyst
+Attack type: Strike
+
+Catalyst belonging to Beatrice, the rogue
+witch. Contrasts with Vinheim catalysts.
+
+This ancient catalyst shows signs of being
+used for age-old sorceries. It has passed
+the hands of many generations to get here.

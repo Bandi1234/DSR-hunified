@@ -1,0 +1,1 @@
+<?selectAll?>:Select <?conclusion?>:Confirm <?cancel?>:Back <?spinLR?>:Rotate

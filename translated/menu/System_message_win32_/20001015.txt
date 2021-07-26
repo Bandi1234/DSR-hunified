@@ -1,0 +1,2 @@
+P2P connection has been lost
+Returning to Main Menu

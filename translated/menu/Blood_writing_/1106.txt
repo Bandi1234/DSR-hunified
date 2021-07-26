@@ -1,0 +1,2 @@
+In order to use amiibo, please change the "amiibo" option
+to "Use amiibo" from the control settings menu.

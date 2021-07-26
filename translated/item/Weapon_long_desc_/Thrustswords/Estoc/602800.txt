@@ -1,0 +1,8 @@
+Weapon type: Thrusting Sword
+Attack type: Regular/Thrust
+
+The largest of the thrusting swords.
+Can pierce an armored knight in one thrust.
+
+The blade is also sharp,
+allowing slicing as well.

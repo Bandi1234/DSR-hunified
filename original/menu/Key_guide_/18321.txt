@@ -1,0 +1,1 @@
+<?cancel?>:Close <?viewChange?>:Change Display

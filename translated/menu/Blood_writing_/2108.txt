@@ -1,0 +1,2 @@
+Win streak resets to zero if player
+leaves the gazebo.

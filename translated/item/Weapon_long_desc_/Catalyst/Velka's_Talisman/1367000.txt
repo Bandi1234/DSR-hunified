@@ -1,0 +1,8 @@
+Weapon type: Talisman
+Attack type: Strike
+
+Medium for casting miracles of the Gods.
+This black tuft of hair that serves as a
+talisman belongs to Velka, Goddess of Sin.
+It casts miracles not by drawing upon
+faith, but intelligence.

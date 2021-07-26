@@ -1,0 +1,9 @@
+Weapon type: Straight Sword
+Attack type: Regular/Thrust
+
+A fully crystallized straight sword.
+How such a weapon was created
+is entirely unknown.
+The crystallization boosts its attack, but
+makes the blade brittle. The sword cannot be
+used for long, as it cannot be repaired.

@@ -1,0 +1,1 @@
+<?selectUD?>:Select <?selectLR?>:Change <?cancel?>:Back <?commando?>:Toggle Display <?shortCutL?>:Remove all from box <?shortCutR?>:Deposit all to box

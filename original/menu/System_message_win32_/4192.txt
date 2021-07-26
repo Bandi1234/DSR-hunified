@@ -1,0 +1,4 @@
+Failed to save game.
+Save data is corrupted.
+
+Returning to Title Menu.

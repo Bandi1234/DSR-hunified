@@ -1,0 +1,7 @@
+Weapon type: Bolt
+Attack type: Thrust
+
+Standard crossbow bolt.
+Used mainly with the Light Crossbow.
+
+Equip crossbow with a bolt to fire.

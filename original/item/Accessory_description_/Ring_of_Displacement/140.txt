@@ -1,0 +1,1 @@
+Sustains dmg in place of wearer, with % break

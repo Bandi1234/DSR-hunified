@@ -1,0 +1,4 @@
+Cannot create any more profiles.
+Delete an existing profile and create a new one?
+
+Note: You may create up to 10 profiles.

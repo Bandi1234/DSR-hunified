@@ -1,0 +1,9 @@
+Weapon type: Small Shield
+Attack type: Strike
+
+Round wooden shield.
+Cracked and nearly broken.
+
+Wood shields are lighter than metal shields,
+but this one has lower physical damage
+reduction stability, partly due to cracking.

@@ -1,0 +1,9 @@
+Weapon type: Greatbow
+Attack type: none
+
+Greatbow used by Hawkeye Gough, of Lord
+Gwyn's Four Knights, for dragon slaying.
+
+This bow is larger than even those used by
+the famed Dragonslayers. Only their leader,
+Gough, had the strength to handle it.

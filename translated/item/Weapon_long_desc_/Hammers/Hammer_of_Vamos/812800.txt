@@ -1,0 +1,9 @@
+Weapon type: Hammer
+Attack type: Strike
+
+Metal hammer of Vamos, a skeleton blacksmith
+deep within the Catacombs who rarely speaks.
+
+Can be used as a strike weapon, but better
+left in the hands of its talented owner.
+

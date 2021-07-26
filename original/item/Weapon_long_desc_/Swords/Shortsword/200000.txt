@@ -1,0 +1,9 @@
+Weapon type: Straight Sword
+Attack type: Regular/Thrust
+
+This small straight sword is widely used,
+to an extent only matched by the longsword.
+
+An accessible sword which inflicts consistent
+regular damage and high thrust damage, making
+it applicable to a variety of situations.

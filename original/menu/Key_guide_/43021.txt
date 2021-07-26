@@ -1,0 +1,1 @@
+<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Leave 

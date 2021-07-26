@@ -1,0 +1,2 @@
+A network error occurred.
+Returning to Title Menu.

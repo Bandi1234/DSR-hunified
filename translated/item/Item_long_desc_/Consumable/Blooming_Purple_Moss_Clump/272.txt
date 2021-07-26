@@ -1,0 +1,9 @@
+Potently medicinal moss clump with a flower.
+Reduces poison and toxin. Restores status.
+
+Toxin is a more vicious form of poison which
+quickly leads to death.
+
+Moss clumps without a flower are useless
+against toxin, and a lack of these moss
+clumps could lead to an early demise.

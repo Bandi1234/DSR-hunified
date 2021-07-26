@@ -1,0 +1,4 @@
+Error with Framerate detected and 
+Online mode is not accessible.
+Either continue the game in Offline mode
+or re-boot the game after solving the issue.

@@ -1,0 +1,9 @@
+Ember required for weapon ascension.
+This enchanted ember, a form of sorcery,
+is a vestige of the lost land of Oolacile.
+
+Ascends +5 magic wpn to enchanted weapon.
+(enchanted weapon can be reinforced to +5)
+
+The sorcerer's enchanted weapon that inflicts
+magic damage and is boosted by intelligence.

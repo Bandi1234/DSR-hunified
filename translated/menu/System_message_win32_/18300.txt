@@ -1,0 +1,1 @@
+<?selectUD?>:Select <?conclusion?>:Details <?commando?>:Steam User Info <?cancel?>:Close <?categoryChangeL?>:Previous 100 <?categoryChangeR?>:Next 100 <?shortCutL?>:Show top <?shortCutR?>:Your Grades

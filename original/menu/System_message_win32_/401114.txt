@@ -1,0 +1,4 @@
+Cannot load this profile as it is from
+a later version of the currently installed game.
+Quit the game and sign in to Steam to
+update DARK SOULS™: REMASTERED to the latest version.

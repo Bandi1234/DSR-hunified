@@ -1,0 +1,2 @@
+With Bow equipped <?attackR?> : Use Bow (Shoot)
+<?subAttackL?><?subAttackR?> : Change Arrows

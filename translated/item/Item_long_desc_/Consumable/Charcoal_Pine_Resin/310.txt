@@ -1,0 +1,7 @@
+Black charcoal-like pine resin.
+Applies fire to right-hand weapon.
+
+Affected weapon inflicts fire damage
+for a short time. Particularly effective
+against corporeal creatures and Undead,
+who have an instinctual fear of fire.

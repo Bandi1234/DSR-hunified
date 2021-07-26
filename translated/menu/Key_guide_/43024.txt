@@ -1,0 +1,1 @@
+<?selectAll?>:Select <?selectLR?>:Change <?cancel?>:Back 

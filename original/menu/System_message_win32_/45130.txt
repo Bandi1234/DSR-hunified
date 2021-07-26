@@ -1,0 +1,4 @@
+Failed to create new save data.
+Please exit the game and manually delete the save data.
+
+Selecting CANCEL will create new save data again.

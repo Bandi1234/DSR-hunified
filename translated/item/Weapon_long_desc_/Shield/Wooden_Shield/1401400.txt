@@ -1,0 +1,9 @@
+Weapon type: Shield
+Attack type: Strike
+
+Vertically elongated wooden shield.
+Decorated with a white dragon.
+
+Wood shields are lighter than metal shields,
+but with lower physical damage reduction,
+and reduced shield stability.

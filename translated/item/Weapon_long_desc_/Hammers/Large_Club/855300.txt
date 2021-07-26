@@ -1,0 +1,8 @@
+Weapon type: Great Hammer
+Attack type: Strike
+
+Large wooden club.
+
+The giant Undead of Blighttown wield these
+clubs, which became poisonous from the
+influence of their surroundings.

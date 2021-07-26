@@ -1,0 +1,12 @@
+Weapon type: Small Shield
+Attack type: Strike
+
+Very small round metal shield.
+Parry attacks with large center protrusion.
+
+Small shields are always less stable, but
+landing critical hits after parry is easier.
+This shield is specialized for parrying.
+
+
+

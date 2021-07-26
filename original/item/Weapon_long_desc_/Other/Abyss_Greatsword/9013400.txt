@@ -1,0 +1,9 @@
+Weapon type: Greatsword
+Attack type: Regular
+
+This greatsword belonged to Lord Gwyn's
+Knight Artorias, who fell to the Abyss.
+
+Swallowed by the Dark with its master, this
+sword is tainted by the Abyss, and now its
+strength reflects its wielder's humanity.

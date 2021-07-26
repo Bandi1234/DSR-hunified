@@ -1,0 +1,1 @@
+<?selectUD?>:Select <?selectLR?>:Change <?conclusion?>:Enter <?cancel?>:Exit <?commando?>:Toggle Display <?viewChange?>:Initialize <?slectMenuSwitch?>:Explanation

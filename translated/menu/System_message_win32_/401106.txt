@@ -1,0 +1,4 @@
+Failed to save game.
+Save data is corrupted.
+
+Select "OK" to try again.

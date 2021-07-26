@@ -1,0 +1,7 @@
+At the end of the previous session, Quit Game
+might not have been selected from the system menu.
+Please use Quit Game from the system menu
+when you wish to end your play session.
+
+Failure to end session with Quit Game may result
+in loss of progress.

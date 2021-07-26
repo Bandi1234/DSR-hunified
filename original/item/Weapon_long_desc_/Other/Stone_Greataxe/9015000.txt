@@ -1,0 +1,9 @@
+Weapon type: Greataxe
+Attack type: Regular
+
+Greataxe borne by the stone knights
+who guard the forest Sanctuary.
+
+This greataxe, requiring inhuman strength to
+wield and more fitted to manual labor than
+battle, is nevertheless completely lethal.

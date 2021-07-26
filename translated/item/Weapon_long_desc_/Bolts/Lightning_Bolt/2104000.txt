@@ -1,0 +1,10 @@
+Weapon type: Bolt
+Attack type: Thrust
+
+Special bolts imbued with lightning, crafted
+by the giant blacksmith of Anor Londo.
+
+The giant blacksmith has never seen a
+crossbow, but remembers the specifications
+of the bolts requested by ancient warriors.
+

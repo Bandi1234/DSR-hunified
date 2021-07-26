@@ -1,0 +1,2 @@
+Failed to load save data.
+Save data is corrupted.

@@ -1,0 +1,7 @@
+Weapon type: Talisman
+Attack type: Strike
+
+Medium for casting miracles of the Gods.
+Ivory Talismans are granted only to female
+clerics, and their value is affected
+dramatically by their owner's faith.

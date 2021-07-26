@@ -1,0 +1,8 @@
+Weapon type: Halberd
+Attack type: Regular
+
+Halberd of the gargoyle guarding the
+Bell of Awakening in the Undead Church.
+
+Perfectly standard bronze halberd
+without any special power.
